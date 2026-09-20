@@ -1,0 +1,2961 @@
+{
+  "schema_version": 1,
+  "review_version": "2026-09-20-content-v2",
+  "corpus_fingerprint": "d72a7832d07b58284fda90623051bbfbf27992ddabdd9ebfd7f841fc9183b702",
+  "excluded_doc_ids": [
+    "52-brian-langis-eric-schleien-commentary-on-warren-buffetts-cnbc-interview-and-letter-27OnrVlP1BU",
+    "berkshire-hathaway-annual-meeting-2020-warren-buffett-sells-airlines-_i3OtFoP2_M",
+    "berkshire-hathaway-shareholders-meeting-2016-part-2-P85iZedqMsQ",
+    "berkshires-munger-calls-sokols-actions-crazy-gWYxehUq0n0",
+    "bertie-buffett-interview-sister-of-warren-buffett-reflects-on-brothers-drive-M6S4s91avHw",
+    "billionaire-warren-buffett-turns-91-but-isnt-slowing-down-anytime-soon-Ls0-OuZflrM",
+    "buffett-gives-amazon-a-bump-as-berkshire-acquires-stake-Hr41VfqO5go",
+    "buffett-gives-broader-endorsement-of-buybacks-than-were-used-to-expert-says-PnvoN7MI2C4",
+    "buffetts-deputies-influence-seen-in-apple-airline-bets-KkzIpajWRL4",
+    "charles-munger-interview-the-power-of-partnership-with-warren-buffett-F6s2HAzMeL0",
+    "divya-narendra-on-cnbc-what-will-warren-buffett-buy-next-ivqkYpw8s3o",
+    "end-of-an-era-at-berkshire-hathaway-warren-buffett-steps-down-as-ceo-after-6-decades-4k-n18v-ICM18VPRBaI",
+    "everything-warren-buffett-talked-about-at-the-2020-berkshire-hathaway-annual-shareholder-meeting-nSE1Imyn1d0",
+    "how-to-invest-like-warren-buffett-forbes-WVqyCRYBieI",
+    "how-warren-buffett-changed-investing-forever-HxkHu4kdEeg",
+    "interview-with-nicole-buffett-xhuNZ5h9xo4",
+    "kathy-ireland-on-brand-strategy-and-being-mentored-by-warren-buffett-jNgkdELfi5k",
+    "peter-buffett-interview-his-parents-love-of-music-Y1bOnkLh_9E",
+    "schroeder-says-buffett-always-looks-at-catastrophic-risk-AHbaUXmVB-o",
+    "should-you-buy-or-rent-a-home-warren-buffetts-advice-that-still-works-today-wZc_3mFqysA",
+    "stocks-that-warren-buffett-is-buying-now-4vyc_G5vRLg",
+    "susie-buffett-interview-how-warren-buffett-handled-money-with-his-kids-LgHUHYgROTU",
+    "this-guy-copy-pasted-warren-buffetts-strategy-and-became-a-billionaire-XikIr0kedY8",
+    "tyrangiel-discusses-warren-buffetts-management-style-video-Dmi8JQ5HyPM",
+    "warren-buffets-early-life-and-introduction-to-investing-warren-buffets-investment-strategy-NKsGNK60OJs",
+    "warren-buffets-market-mantra-wit-vs-wisdom-take-a-look-digital-cnbc-tv18-rYLCDWVjlb0",
+    "warren-buffett-1962-amazing-interview-FsDYatBvwYI",
+    "warren-buffett-advice-to-young-people-RZEkG1c1ZdY",
+    "warren-buffett-bought-133000000-shares-of-apple-cnbc-buffett-interview-recap-WZprfzSlKDQ",
+    "warren-buffett-ceo-kevin-clayton-with-robert-miles-AYZ0h-NBGJE",
+    "warren-buffett-cnbc-full-interview-10-minute-summary-podcast-berkshire-hathaway-PeeBo4T066Y",
+    "warren-buffett-cnbc-interview-breakdown-bitcoin-khc-apple-tesla-and-more-4UBfaZaRYP8",
+    "warren-buffett-going-quiet-wVezkKuZjxk",
+    "warren-buffett-lecture-8-timeless-tips-university-of-georgia-2001-V0E5SRI_HgY",
+    "warren-buffett-on-investment-strategy-fortune-magazine-interview-commentary-QuY434nn8pk",
+    "warren-buffett-on-jack-bogle-LFfYNDwf1XA",
+    "warren-buffett-trims-stake-in-apple-doubles-down-on-banks-_nKkQA1gdqs",
+    "warren-buffetts-5-new-stocks-interview-recap-Ui_FFxFvaac",
+    "warren-buffetts-annual-berkshire-hathaway-letter-what-to-expect-XHDPNTsLapc",
+    "warren-buffetts-money-skills-they-never-taught-you-in-school-5ycaCMgZd8c",
+    "warren-buffetts-most-iconic-interview-ever-vHmSo_EVRjY",
+    "warren-buffetts-trillion-dollar-weapon-lL3N4DNLY54",
+    "what-will-warren-buffett-do-with-50b-in-cash-vJLvCVEssB4",
+    "whitney-tilson-on-berkshire-buying-back-its-own-stock-yMiAEzcCl20",
+    "why-buffett-was-subpoenaed-q5WRO3M2xO4",
+    "why-value-investing-is-outdated-warren-buffett-berkshire-hathaway-annual-meeting-lcqW9pKeZVs",
+    "warren-buffett-the-only-5-stocks-id-trust-with-my-familys-future-3F4N0QT5Tfk"
+  ],
+  "reviews": {
+    "1994-berkshire-hathaway-annual-meeting-full-version-kgKEiP6L9EQ": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kgKEiP6L9EQ"
+    },
+    "1994-berkshire-hathaway-annual-meeting-warren-buffett-and-charlie-munger-full-session-V17kI1iwDYE": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "V17kI1iwDYE"
+    },
+    "1995-berkshire-hathaway-annual-meeting-full-version-mdX5JbDUYs4": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "mdX5JbDUYs4"
+    },
+    "1995-berkshire-hathaway-annual-meeting-warren-buffett-charlie-munger-full-qa-G2k0cYDWgI0": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "G2k0cYDWgI0"
+    },
+    "1996-berkshire-hathaway-annual-meeting-full-version-Z9CXQ6NZFYA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Z9CXQ6NZFYA"
+    },
+    "1996-berkshire-hathaway-annual-meeting-morning-session-warren-buffett-charlie-munger-loqMBWyhHZc": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "loqMBWyhHZc"
+    },
+    "1997-berkshire-hathaway-annual-meeting-full-version-t9pFkVHfpFo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "t9pFkVHfpFo"
+    },
+    "1998-berkshire-hathaway-annual-meeting-full-version-5Tcqlrz6yKo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "5Tcqlrz6yKo"
+    },
+    "1999-berkshire-hathaway-annual-meeting-full-version-EyGwt5qVflY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "EyGwt5qVflY"
+    },
+    "2000-berkshire-hathaway-annual-meeting-full-version-Roe4LnEv7Gg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Roe4LnEv7Gg"
+    },
+    "2001-berkshire-hathaway-annual-meeting-full-version-x2xUC9gWy3Q": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "x2xUC9gWy3Q"
+    },
+    "2003-berkshire-hathaway-annual-meeting-full-version-l1fntiDT-VQ": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "l1fntiDT-VQ"
+    },
+    "2003-berkshire-hathaway-annual-meeting-morning-session-warren-buffett-charlie-munger-2fuehoSWW8Y": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2fuehoSWW8Y"
+    },
+    "2005-berkshire-hathaway-annual-meeting-full-version-QivMYGNdJ74": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "QivMYGNdJ74"
+    },
+    "2008-berkshire-hathaway-annual-meeting-afternoon-session-warren-buffett-charlie-munger-UiHvT_6FZDw": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "UiHvT_6FZDw"
+    },
+    "2008-berkshire-hathaway-annual-meeting-full-version-kb4pRhghvVg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kb4pRhghvVg"
+    },
+    "2009-berkshire-hathaway-annual-meeting-full-version-7aH5ss-uLEc": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7aH5ss-uLEc"
+    },
+    "2010-berkshire-hathaway-annual-meeting-full-version-B4UdGypj3Lo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "B4UdGypj3Lo"
+    },
+    "2011-berkshire-hathaway-annual-meeting-afternoon-session-warren-buffett-charlie-munger-J0PcCwE_H2Q": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "J0PcCwE_H2Q"
+    },
+    "2011-berkshire-hathaway-annual-meeting-full-version-fKTmuoU9IVE": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fKTmuoU9IVE"
+    },
+    "2011-berkshire-hathaway-annual-meeting-morning-session-warren-buffett-charlie-munger-sXpTJmmWkmA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "sXpTJmmWkmA"
+    },
+    "2011-berkshire-hathaway-annual-meeting-warren-buffett-interview-MIgPq462jOY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MIgPq462jOY"
+    },
+    "2012-berkshire-hathaway-annual-meeting-full-version--Y6kwyWnKSM": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-Y6kwyWnKSM"
+    },
+    "2014-berkshire-hathaway-annual-meeting-full-version-bkHKP07SMTY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "bkHKP07SMTY"
+    },
+    "2015-berkshire-hathaway-annual-meeting-full-version-zh0L7ObIFHQ": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "zh0L7ObIFHQ"
+    },
+    "2016-berkshire-hathaway-annual-meeting-afternoon-session-warren-buffett-charlie-munger-wh_syPjnol8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "wh_syPjnol8"
+    },
+    "2016-berkshire-hathaway-annual-meeting-full-version-iciNJLMpACQ": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "iciNJLMpACQ"
+    },
+    "2016-berkshire-hathaway-annual-meeting-morning-session-warren-buffett-charlie-munger-k3xgw_dqN20": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "k3xgw_dqN20"
+    },
+    "2017-berkshire-hathaway-annual-meeting-full-version-kA42-y1y8PU": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kA42-y1y8PU"
+    },
+    "2018-berkshire-hathaway-annual-meeting-full-version-sYiv4AMq9Tk": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "sYiv4AMq9Tk"
+    },
+    "2018-berkshire-hathaway-annual-meeting-morning-session-warren-buffett-charlie-munger-IuVdz0i8JSo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "IuVdz0i8JSo"
+    },
+    "2019-berkshire-hathaway-annual-meeting-full-version-geRIJQJXRVo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "geRIJQJXRVo"
+    },
+    "2019-interview-with-warren-buffett-charlie-munger-bill-gates-by-becky-quick-from-cnbc-y-zxUrZJ7-o": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "y-zxUrZJ7-o"
+    },
+    "52-brian-langis-eric-schleien-commentary-on-warren-buffetts-cnbc-interview-and-letter-27OnrVlP1BU": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "主持人 Eric 与嘉宾 Brian 讨论巴菲特采访和股东信，不是巴菲特专访。",
+      "classification_confidence": "high",
+      "video_id": "27OnrVlP1BU"
+    },
+    "a-conversation-with-warren-buffett-PcMODVWkzvg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "PcMODVWkzvg"
+    },
+    "a-conversation-with-warren-buffett-bill-gates-university-of-washington-XxSASkepKks": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "XxSASkepKks"
+    },
+    "a-question-from-mohnish-pabrai-at-the-1999-berkshire-hathaway-annual-meeting-Db85KCmYZTQ": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Db85KCmYZTQ"
+    },
+    "an-interview-with-warren-buffett-part-8-of-9-te3yn-rahFg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "te3yn-rahFg"
+    },
+    "becoming-warren-buffett-interview-rule-1-never-lose-money-cd-w9H0G6nQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "cd-w9H0G6nQ"
+    },
+    "berkshire-hathaway-2016-annual-shareholders-meeting-full-mqWOpUWjqiI": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "mqWOpUWjqiI"
+    },
+    "berkshire-hathaway-annual-meeting-2011-afternoon-session-9zT94z1uJ5Q": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "9zT94z1uJ5Q"
+    },
+    "berkshire-hathaway-annual-meeting-2011-morning-session-JtX_W6Et3_4": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "JtX_W6Et3_4"
+    },
+    "berkshire-hathaway-annual-meeting-2020-warren-buffett-greg-abel-coe1uCNRtx4": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "coe1uCNRtx4"
+    },
+    "berkshire-hathaway-annual-meeting-2020-warren-buffett-sells-airlines-_i3OtFoP2_M": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "_i3OtFoP2_M"
+    },
+    "berkshire-hathaway-shareholders-meeting-2016-part-2-P85iZedqMsQ": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "参会者记录出行、停车、餐饮及返程，虽夹会场片段，但整体是第三方参会游记。",
+      "classification_confidence": "high",
+      "video_id": "P85iZedqMsQ"
+    },
+    "berkshires-munger-calls-sokols-actions-crazy-gWYxehUq0n0": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "提问对象为芒格，讨论 Sokol；非巴菲特本人受访。",
+      "classification_confidence": "high",
+      "video_id": "gWYxehUq0n0"
+    },
+    "bertie-buffett-interview-sister-of-warren-buffett-reflects-on-brothers-drive-M6S4s91avHw": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "受访者为妹妹 Bertie，回忆兄长。",
+      "classification_confidence": "high",
+      "video_id": "M6S4s91avHw"
+    },
+    "bill-ackman-asks-warren-buffett-and-charlie-munger-how-to-analyze-financial-statements-H9pmFe1vpu8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "H9pmFe1vpu8"
+    },
+    "bill-gates-and-warren-buffett-charlie-rose-interview-2017-OMu4ndH1iqs": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "OMu4ndH1iqs"
+    },
+    "bill-gates-and-warren-buffett-charlie-rose-interview-2017-aMjt-E4ccDs": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "aMjt-E4ccDs"
+    },
+    "bill-gates-charlie-munger-warren-buffett-on-the-socialism-versus-capitalism-debate-s9ovOwl5Cns": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "s9ovOwl5Cns"
+    },
+    "billionaire-warren-buffett-turns-91-but-isnt-slowing-down-anytime-soon-Ls0-OuZflrM": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "Ls0-OuZflrM"
+    },
+    "bloomberg-game-changers-warren-buffet-XJZaA1A2ku8": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "XJZaA1A2ku8"
+    },
+    "buffett-debt-limit-is-like-virginity-fpnFmeDbN8E": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fpnFmeDbN8E"
+    },
+    "buffett-gates-on-success-ldPh0_zEykU": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ldPh0_zEykU"
+    },
+    "buffett-gives-amazon-a-bump-as-berkshire-acquires-stake-Hr41VfqO5go": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "Hr41VfqO5go"
+    },
+    "buffett-gives-broader-endorsement-of-buybacks-than-were-used-to-expert-says-PnvoN7MI2C4": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "PnvoN7MI2C4"
+    },
+    "buffett-on-recovery-obama-taxes-Cx00_ev-Kp8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Cx00_ev-Kp8"
+    },
+    "buffett-stock-prices-are-in-the-zone-of-reasonable-fortune-mpw-F28bjzOR4qo": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "F28bjzOR4qo"
+    },
+    "buffetts-deputies-influence-seen-in-apple-airline-bets-KkzIpajWRL4": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "KkzIpajWRL4"
+    },
+    "buffetts-unique-friend-a-journalist-L0Sy_YPFrE4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "L0Sy_YPFrE4"
+    },
+    "charles-munger-interview-the-power-of-partnership-with-warren-buffett-F6s2HAzMeL0": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "Charles Munger 回忆与 Warren 相识和合作。",
+      "classification_confidence": "high",
+      "video_id": "F6s2HAzMeL0"
+    },
+    "charlie-rose-interview-warren-buffett-2022-Dh8h0rH5jLI": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Dh8h0rH5jLI"
+    },
+    "cnbc-warren-buffett-in-omaha-03-31-2026-interview-audio-rZ8c5ip5xCI": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "rZ8c5ip5xCI"
+    },
+    "cnbcs-becky-quick-interviews-warren-buffett-22519-Pqc56crs56s": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Pqc56crs56s"
+    },
+    "cnbcs-full-interview-with-warren-buffett-and-jamie-dimon-MLyCdxc-wfA": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MLyCdxc-wfA"
+    },
+    "cnbcs-interview-with-berkshire-hathaway-ceo-warren-buffett-9-by-thinksabio-inc-wwwthinksabiocom-4W6lKhd0tv4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "4W6lKhd0tv4"
+    },
+    "divya-narendra-on-cnbc-what-will-warren-buffett-buy-next-ivqkYpw8s3o": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "ivqkYpw8s3o"
+    },
+    "donald-trumps-popularity-surprises-me-warren-buffett-cnbc-kTJIBaaS1pk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kTJIBaaS1pk"
+    },
+    "end-of-an-era-at-berkshire-hathaway-warren-buffett-steps-down-as-ceo-after-6-decades-4k-n18v-ICM18VPRBaI": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "ICM18VPRBaI"
+    },
+    "evan-davis-talks-to-warren-buffett-bbc-10-25-09-part-2-8SFqXLpvpE8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8SFqXLpvpE8"
+    },
+    "evan-davis-talks-to-warren-buffett-bbc-10-25-09-part1-22hWInng3gA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "22hWInng3gA"
+    },
+    "everything-warren-buffett-talked-about-at-the-2020-berkshire-hathaway-annual-shareholder-meeting-nSE1Imyn1d0": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "nSE1Imyn1d0"
+    },
+    "exclusive-interview-with-warren-buffett-yRwLYzIVSnM": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "yRwLYzIVSnM"
+    },
+    "fantasy-warren-buffetts-ideal-business-2003-q23-pm-hk58bgRWOhU": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "hk58bgRWOhU"
+    },
+    "full-warren-buffet-interview-on-cnbc-0F69Z8-_Y1s": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0F69Z8-_Y1s"
+    },
+    "how-to-invest-like-warren-buffett-forbes-WVqyCRYBieI": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "讲解者以第三人称引用 Buffett，再以税收与复利例子讲解；不是巴菲特原话专访。",
+      "classification_confidence": "high",
+      "video_id": "WVqyCRYBieI"
+    },
+    "how-warren-buffett-changed-investing-forever-HxkHu4kdEeg": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "HxkHu4kdEeg"
+    },
+    "how-warren-buffett-hedges-himself-against-inflation-d7jO2vLcrtc": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "d7jO2vLcrtc"
+    },
+    "how-warren-buffett-outsmarted-the-market-in-2008-QdarCpE7N40": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "QdarCpE7N40"
+    },
+    "i-got-rich-when-i-understood-this-warren-buffett-M-QFGiwUCPA": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "M-QFGiwUCPA"
+    },
+    "iconic-investor-warren-buffett-on-bernie-sanders-and-capitalism-HFMxB5o18H0": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "HFMxB5o18H0"
+    },
+    "if-you-offered-me-all-the-bitcoin-in-the-world-for-25-i-wouldnt-take-it-says-warren-buffett-HVm7Pfb0ilY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "HVm7Pfb0ilY"
+    },
+    "interview-with-nicole-buffett-xhuNZ5h9xo4": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "正文自述是 Warren 的孙女，受访者 Nicole Buffett。",
+      "classification_confidence": "high",
+      "video_id": "xhuNZ5h9xo4"
+    },
+    "interview-with-warren-buffett-cnbc-part-2-q2RTLOSYai8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "q2RTLOSYai8"
+    },
+    "investment-principles-and-philosophy-lecture-warren-buffett-berkshire-hathaway-F5uF4QafytQ": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "F5uF4QafytQ"
+    },
+    "jay-z-and-warren-buffett-full-interview-original-uncut-nRI1yp8FCLY": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "nRI1yp8FCLY"
+    },
+    "kathy-ireland-on-brand-strategy-and-being-mentored-by-warren-buffett-jNgkdELfi5k": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "节目明确介绍受访者为 Kathy Ireland，话题为其企业。",
+      "classification_confidence": "high",
+      "video_id": "jNgkdELfi5k"
+    },
+    "lebron-james-asks-warren-buffett-for-investment-tips-cnbc-0QvXd7S2sn4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0QvXd7S2sn4"
+    },
+    "my-warren-buffetts-best-pieces-of-advice-so-far-fJhDr27YODM": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fJhDr27YODM"
+    },
+    "one-on-one-with-warren-buffett-50INXmbo0Xo": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "50INXmbo0Xo"
+    },
+    "one-on-one-with-warren-buffett-after-the-2016-election-ezLH1Yo7J-w": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ezLH1Yo7J-w"
+    },
+    "peter-buffett-interview-his-parents-love-of-music-Y1bOnkLh_9E": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "Peter 回忆父亲及音乐，非 Warren 受访。",
+      "classification_confidence": "high",
+      "video_id": "Y1bOnkLh_9E"
+    },
+    "reflections-of-2008-financial-crisis-from-warren-buffett-_9KnnAaSR8U": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "_9KnnAaSR8U"
+    },
+    "salomon-brothers-scandal-from-hbos-becoming-warren-buffett-AO4VoVoEMR0": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "AO4VoVoEMR0"
+    },
+    "schroeder-says-buffett-always-looks-at-catastrophic-risk-AHbaUXmVB-o": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "AHbaUXmVB-o"
+    },
+    "secret-of-warren-buffetts-longevity-berkshire-hathaway-2001cwb-ep-222-U3sUcwfnGJg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "U3sUcwfnGJg"
+    },
+    "should-you-buy-or-rent-a-home-warren-buffetts-advice-that-still-works-today-wZc_3mFqysA": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "wZc_3mFqysA"
+    },
+    "stocks-that-warren-buffett-is-buying-now-4vyc_G5vRLg": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "4vyc_G5vRLg"
+    },
+    "sunday-profile-warren-buffett-O665cNwMVGw": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "O665cNwMVGw"
+    },
+    "susie-buffett-interview-how-warren-buffett-handled-money-with-his-kids-LgHUHYgROTU": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "Susie 回忆家庭生活及父亲，非 Warren 受访。",
+      "classification_confidence": "high",
+      "video_id": "LgHUHYgROTU"
+    },
+    "the-best-collections-of-warren-buffett-charlie-munger-accounting-ZXRKMeXnFV0": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ZXRKMeXnFV0"
+    },
+    "the-best-collections-of-warren-buffett-charlie-munger-stock-market-M-L9nK_MSmg": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "M-L9nK_MSmg"
+    },
+    "the-best-collections-of-warren-buffett-charlie-munger-valuation-intrinsic-value-7XCbOqegYKQ": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7XCbOqegYKQ"
+    },
+    "the-david-rubenstein-show-warren-buffett-on-his-early-career-in-finance-u8ANHNU0Fng": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "u8ANHNU0Fng"
+    },
+    "the-future-of-bitcoin-and-the-stock-market-according-to-warren-buffett-2019-bitcoin-price-s_k-F5I3y3k": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "s_k-F5I3y3k"
+    },
+    "this-guy-copy-pasted-warren-buffetts-strategy-and-became-a-billionaire-XikIr0kedY8": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "主持人介绍到被称为 Indian Warren Buffett 的 Mohnish Pabrai 家中访谈，是别称误命中。",
+      "classification_confidence": "high",
+      "video_id": "XikIr0kedY8"
+    },
+    "this-is-how-warren-buffett-avoids-mistakes-warren-buffett-money-philosophy-3g5jQg-VuqQ": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "3g5jQg-VuqQ"
+    },
+    "three-generations-of-buffett-were-the-lucky-ones-Aa7AA3_h-VA": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Aa7AA3_h-VA"
+    },
+    "timesaver-2019-berkshire-hathaway-annual-meeting-with-charlie-munger-and-warren-buffett-SX7bX9cH-vg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "SX7bX9cH-vg"
+    },
+    "timesaver-edit-2020-berkshire-hathaway-annual-meeting-full-qa-with-warren-buffett-D2xRviFbS4E": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "D2xRviFbS4E"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2006-berkshire-hathaway-annual-meeting-cEx5jrif8Ug": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "cEx5jrif8Ug"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2013-berkshire-hathaway-annual-meeting-9d0oTksDb8A": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "9d0oTksDb8A"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2015-berkshire-hathaway-annual-meeting-F67eHNhD-Vg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "F67eHNhD-Vg"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2017-berkshire-hathaway-annual-meeting-Z0-ff38ldlA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Z0-ff38ldlA"
+    },
+    "tyrangiel-discusses-warren-buffetts-management-style-video-Dmi8JQ5HyPM": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "Dmi8JQ5HyPM"
+    },
+    "wareen-buffett-nightline-interview-1999-jPJXQ3FqPLk": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "jPJXQ3FqPLk"
+    },
+    "warren-buffet-interview-cnbc-squawk-box-5gJLOCOXDGs": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "5gJLOCOXDGs"
+    },
+    "warren-buffet-interview-on-cnbc-talk-to-investment-strategy-becky-quick-interviews-warren-buffett-1XhzYsy3m5s": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1XhzYsy3m5s"
+    },
+    "warren-buffet-on-petrolchina-and-his-strategy-sLXNn-im4ec": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "sLXNn-im4ec"
+    },
+    "warren-buffet-speech-at-florida-university-warren-buffett-interview-college-warren-buffett-speech-ybtj-ZI_ofo": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ybtj-ZI_ofo"
+    },
+    "warren-buffet-speech-at-university-of-nebraska-2003-SVlJdHGMl4Q": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "SVlJdHGMl4Q"
+    },
+    "warren-buffets-early-life-and-introduction-to-investing-warren-buffets-investment-strategy-NKsGNK60OJs": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "NKsGNK60OJs"
+    },
+    "warren-buffets-market-mantra-wit-vs-wisdom-take-a-look-digital-cnbc-tv18-rYLCDWVjlb0": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "rYLCDWVjlb0"
+    },
+    "warren-buffett-1962-amazing-interview-FsDYatBvwYI": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "开头是历史采访，后半段转为作者分析并推荐其新兴市场研究平台；整体按评论节目排除。",
+      "classification_confidence": "high",
+      "video_id": "FsDYatBvwYI"
+    },
+    "warren-buffett-88th-birthday-interview-with-cnbc-full-interview-POQ-22E3v6U": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "POQ-22E3v6U"
+    },
+    "warren-buffett-advice-to-young-people-RZEkG1c1ZdY": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "巴菲特原话与作者对市场、企业及投资原则的长篇解释交织，按评论节目排除。",
+      "classification_confidence": "high",
+      "video_id": "RZEkG1c1ZdY"
+    },
+    "warren-buffett-all-great-stocks-have-these-traits--vq4NOCrskE": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-vq4NOCrskE"
+    },
+    "warren-buffett-america-has-never-been-greater-february-26-2016-QS5QEQJnniA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "QS5QEQJnniA"
+    },
+    "warren-buffett-and-greg-abel-april-2023-full-interview-WWheFMRCyNI": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WWheFMRCyNI"
+    },
+    "warren-buffett-berkshire-hathaway-warren-buffett-lecture-how-did-warren-buffett-become-so-rich-WqZuvR3grV4": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WqZuvR3grV4"
+    },
+    "warren-buffett-bill-gates-go-back-to-school-questions-answers-ufPed-NFUck": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ufPed-NFUck"
+    },
+    "warren-buffett-bill-gates-lecture-university-of-nebraska-2005-1AlPTiJrJnE": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1AlPTiJrJnE"
+    },
+    "warren-buffett-bought-133000000-shares-of-apple-cnbc-buffett-interview-recap-WZprfzSlKDQ": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "WZprfzSlKDQ"
+    },
+    "warren-buffett-brian-moynihan-speak-at-georgetown-6JLoU1BRdeE": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "6JLoU1BRdeE"
+    },
+    "warren-buffett-candid-interview-how-i-look-at-life-and-business-full-length-voUDvMkk4Gk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "voUDvMkk4Gk"
+    },
+    "warren-buffett-ceo-kevin-clayton-with-robert-miles-AYZ0h-NBGJE": {
+      "category": "non_buffett_participant",
+      "category_zh": "其他人物／无巴菲特发言的节目",
+      "decision": "exclude",
+      "decision_reason": "开头明确为 Bob Miles 访谈 Clayton Homes CEO Kevin Clayton，非巴菲特。",
+      "classification_confidence": "high",
+      "video_id": "AYZ0h-NBGJE"
+    },
+    "warren-buffett-chairman-berkshire-hathaway-investment-group-terry-leadership-speaker-series-2a9Lx9J8uSs": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2a9Lx9J8uSs"
+    },
+    "warren-buffett-charlie-munger-100-years-of-financial-wisdom-in-4-hour-investingmarket-analysis-rEZukMdkQiA": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "rEZukMdkQiA"
+    },
+    "warren-buffett-charlie-munger-diversification-ZJzu_xItNkY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ZJzu_xItNkY"
+    },
+    "warren-buffett-charlie-munger-give-advice-to-a-harvard-student-uS0Ckv0xAkg": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "uS0Ckv0xAkg"
+    },
+    "warren-buffett-charlie-munger-goodwill-impairment-charge-2003--xasfbIY30E": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-xasfbIY30E"
+    },
+    "warren-buffett-charlie-mungers-warning-on-derivatives-2003-0QXRAy_eE50": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0QXRAy_eE50"
+    },
+    "warren-buffett-charlie-rose-full-interview-2024-9UyMLPVCAVY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "9UyMLPVCAVY"
+    },
+    "warren-buffett-charlie-rose-interview-in-2022-Lb1Pr0AQYuc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Lb1Pr0AQYuc"
+    },
+    "warren-buffett-charlie-rose-july-17-2015-HNQj9E5z2RA": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "涉及 Bill/Melinda Gates 与 Warren 的慈善对谈，不是单一嘉宾专访。",
+      "classification_confidence": "medium",
+      "video_id": "HNQj9E5z2RA"
+    },
+    "warren-buffett-charlie-rose-november-13-2009-WoL-DFalWUY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WoL-DFalWUY"
+    },
+    "warren-buffett-charlie-rose-october-1-2008-HAwptsxebgI": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "HAwptsxebgI"
+    },
+    "warren-buffett-charlie-rose-october-5-2007-AbklUqHAWUs": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "AbklUqHAWUs"
+    },
+    "warren-buffett-charlie-rose-pt-1-july-10-2006-Gm1FqNO4taM": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Gm1FqNO4taM"
+    },
+    "warren-buffett-charlie-rose-pt-2-july-11-2006-PPyud17lHDc": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "PPyud17lHDc"
+    },
+    "warren-buffett-charlie-rose-pt-3-july-12-2006-opOYc5S1zwM": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "opOYc5S1zwM"
+    },
+    "warren-buffett-charlie-rose-september-30-2011-9kG4NMsoslA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "9kG4NMsoslA"
+    },
+    "warren-buffett-class-b-stock-split-was-easy-decision-_TVQKltfD6c": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "_TVQKltfD6c"
+    },
+    "warren-buffett-cnbc-full-interview-10-minute-summary-podcast-berkshire-hathaway-PeeBo4T066Y": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "PeeBo4T066Y"
+    },
+    "warren-buffett-cnbc-gold-silver-paper-money-Uuy95_O9ZZo": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Uuy95_O9ZZo"
+    },
+    "warren-buffett-cnbc-interview-breakdown-bitcoin-khc-apple-tesla-and-more-4UBfaZaRYP8": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "4UBfaZaRYP8"
+    },
+    "warren-buffett-cnbc-interview-in-2020-XfH83ssKwC4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "XfH83ssKwC4"
+    },
+    "warren-buffett-college-is-an-extremely-expensive-waste-of-time-2zYnngMEm5w": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "剪辑中有多种讲话轮次，不能因标题就全部归给 Buffett。",
+      "classification_confidence": "medium",
+      "video_id": "2zYnngMEm5w"
+    },
+    "warren-buffett-discusses-the-big-one-2018-7i_0jZnL0ao": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7i_0jZnL0ao"
+    },
+    "warren-buffett-diversification-wbjPiYE-F4Y": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "wbjPiYE-F4Y"
+    },
+    "warren-buffett-dont-pay-attention-to-geopolitics-5cRJZos_8yU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "5cRJZos_8yU"
+    },
+    "warren-buffett-economic-growth-has-slowed-july-12-2012-2VAA_WXt9LY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2VAA_WXt9LY"
+    },
+    "warren-buffett-explains-the-2008-financial-crisis-k2VSSNECLTQ": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "k2VSSNECLTQ"
+    },
+    "warren-buffett-fortune-interview--ge7opRUPm8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-ge7opRUPm8"
+    },
+    "warren-buffett-full-interview-2023-_FJUQCSni0M": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "_FJUQCSni0M"
+    },
+    "warren-buffett-full-interview-berkshire-hathaway-c6V9YJY8jEk": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "c6V9YJY8jEk"
+    },
+    "warren-buffett-going-quiet-wVezkKuZjxk": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "wVezkKuZjxk"
+    },
+    "warren-buffett-handling-crisis-like-the-great-recession-2020-04-30-0CvyGWnxdXc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0CvyGWnxdXc"
+    },
+    "warren-buffett-how-to-invest-money-full-documentary-Uf-RE-tPJrM": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Uf-RE-tPJrM"
+    },
+    "warren-buffett-how-to-invest-small-sums-VhVD-xNrhXo": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "VhVD-xNrhXo"
+    },
+    "warren-buffett-how-to-turn-10000-to-30-billion-QEL7Deioafw": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "QEL7Deioafw"
+    },
+    "warren-buffett-i-charlie-rose-i-2009-Q22kVPdi-qA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Q22kVPdi-qA"
+    },
+    "warren-buffett-i-dont-own-any-cryptocurrency-and-i-never-will-d6yqrwOZVjY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "d6yqrwOZVjY"
+    },
+    "warren-buffett-i-drink-coca-cola-and-im-happy-cnbc-g7IX9a69RCc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "g7IX9a69RCc"
+    },
+    "warren-buffett-i-want-20-minimum-wage-may-5-2012-wkbs13r9hU8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "wkbs13r9hU8"
+    },
+    "warren-buffett-i-would-have-voted-against-kraft-cadbury-deal-cnbc-N7cCYmoCMxU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "N7cCYmoCMxU"
+    },
+    "warren-buffett-i-would-support-bloomberg-for-president-ZAJ4zvuM-3M": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ZAJ4zvuM-3M"
+    },
+    "warren-buffett-im-in-remarkably-good-health-cnbc-8qjqOTcsEGg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8qjqOTcsEGg"
+    },
+    "warren-buffett-in-1995-says-about-how-to-invest-small-sum-of-money-lUoCQYEO_w0": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "lUoCQYEO_w0"
+    },
+    "warren-buffett-inside-look-cash-is-king-bloomberg-UZH5qjXBb_8": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "UZH5qjXBb_8"
+    },
+    "warren-buffett-internet-businesses-during-dot-com-bubble-berkshire-hathaway-2001cwb-ep-220-fGnd1s35wzs": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fGnd1s35wzs"
+    },
+    "warren-buffett-interview-1112-NUfpivbYLxQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "NUfpivbYLxQ"
+    },
+    "warren-buffett-interview-2018-UyTIRJ0UdyM": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "UyTIRJ0UdyM"
+    },
+    "warren-buffett-interview-2022-time-saver-edition-charlie-rose-2022-bBqfXNgSwZ4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "bBqfXNgSwZ4"
+    },
+    "warren-buffett-interview-J75skYfjIL4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "J75skYfjIL4"
+    },
+    "warren-buffett-interview-answers-from-2017-charlie-rose-interview-QqxjVw7K4Fo": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "QqxjVw7K4Fo"
+    },
+    "warren-buffett-interview-from-india-must-watch-4xinbuOPt7c": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "4xinbuOPt7c"
+    },
+    "warren-buffett-interview-timing-the-market-KKx693Ddkwo": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "KKx693Ddkwo"
+    },
+    "warren-buffett-interview-with-andy-serwer-in-2020-o3oFCqt2Y-A": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "o3oFCqt2Y-A"
+    },
+    "warren-buffett-interview-with-becky-quick-on-cnbc-03312026-CEPXGxn23k0": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "CEPXGxn23k0"
+    },
+    "warren-buffett-investment-advice-strategy-mentormewarren-7KaBJSr5vuI": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7KaBJSr5vuI"
+    },
+    "warren-buffett-investment-process-l39TS7L_fMM": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "l39TS7L_fMM"
+    },
+    "warren-buffett-just-looking-at-the-price-is-not-investing-cnbc-Qm0jktMIYlk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Qm0jktMIYlk"
+    },
+    "warren-buffett-lecture-8-timeless-tips-university-of-georgia-2001-V0E5SRI_HgY": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "作者选出若干提示并在尾部归纳、引导观看其其他解释视频；按第三方解读节目排除。",
+      "classification_confidence": "high",
+      "video_id": "V0E5SRI_HgY"
+    },
+    "warren-buffett-lecture-at-omaha-press-club-HmZxkn7xkqE": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "HmZxkn7xkqE"
+    },
+    "warren-buffett-lecture-at-omaha-press-club-YL__suTGx38": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "YL__suTGx38"
+    },
+    "warren-buffett-lecture-at-terry-college-of-business-Qf-i0SWaYic": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Qf-i0SWaYic"
+    },
+    "warren-buffett-lecture-georgetown-university-september-19-2013-C8657B4v_t8": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "C8657B4v_t8"
+    },
+    "warren-buffett-lecture-nebraska-educational-forum-1999-HM9h9t1vpIE": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "HM9h9t1vpIE"
+    },
+    "warren-buffett-lecture-series-the-grand-buffet-of-assets-part-6-of-15-zJ-1PQ60_NY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "zJ-1PQ60_NY"
+    },
+    "warren-buffett-lecture-university-of-georgia-2001-3gOq4wCsDJ0": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "3gOq4wCsDJ0"
+    },
+    "warren-buffett-lecture-university-of-north-carolina-1996-EQX7YyRFGEU": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "EQX7YyRFGEU"
+    },
+    "warren-buffett-number-one-way-to-achieve-financial-freedom-priceless-advice-TkJy_4vr3Sc": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "TkJy_4vr3Sc"
+    },
+    "warren-buffett-on-benjamin-graham-making-money-did-not-motivate-him-4Bc_CCpv_Cc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "4Bc_CCpv_Cc"
+    },
+    "warren-buffett-on-charlie-rose-XUlBt3tbilA": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "XUlBt3tbilA"
+    },
+    "warren-buffett-on-coronavirus-dow-jones-plunge-and-oil-plunge-jqUv7X5eeCc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "jqUv7X5eeCc"
+    },
+    "warren-buffett-on-his-prostate-cancer-october-24-2012-Z98wY-Rpa_Q": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Z98wY-Rpa_Q"
+    },
+    "warren-buffett-on-investment-strategy-fortune-magazine-interview-commentary-QuY434nn8pk": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文明确为 Hamish 的 interview reaction，原话和作者解释交织。",
+      "classification_confidence": "high",
+      "video_id": "QuY434nn8pk"
+    },
+    "warren-buffett-on-investment-strategy-full-interview-fortune-mpw-cSU3y0N60XU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "cSU3y0N60XU"
+    },
+    "warren-buffett-on-investments-and-income-inequality-full-interview-8eu9oFvbJ1w": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8eu9oFvbJ1w"
+    },
+    "warren-buffett-on-jack-bogle-LFfYNDwf1XA": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "Becky 转述刚与 Buffett 通话的内容，正文为主播讨论，不能作为 Buffett 直接受访转录。",
+      "classification_confidence": "high",
+      "video_id": "LFfYNDwf1XA"
+    },
+    "warren-buffett-on-love-and-happiness-2003-q27-am-Hi68im6sBz0": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Hi68im6sBz0"
+    },
+    "warren-buffett-on-tech-stocks-2018-ZEepMrZjf2o": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ZEepMrZjf2o"
+    },
+    "warren-buffett-on-the-2008-crisis-MQcPC31KRqA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MQcPC31KRqA"
+    },
+    "warren-buffett-on-the-2008-financial-crisis-91fl1DC2FVc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "91fl1DC2FVc"
+    },
+    "warren-buffett-on-the-dan-patrick-show-full-interview-12214-muh8lL6s5ow": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "muh8lL6s5ow"
+    },
+    "warren-buffett-on-the-problems-with-american-healthcare-february-26-2018-MmsN9agPC08": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MmsN9agPC08"
+    },
+    "warren-buffett-on-which-newspapers-he-reads-may-7-2012-8-H6jbq2L9U": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8-H6jbq2L9U"
+    },
+    "warren-buffett-one-of-the-greatest-speeches-ever-for-young-people-WApDV8-IZaY": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WApDV8-IZaY"
+    },
+    "warren-buffett-people-focus-too-much-on-the-short-term-march-3-2014-ta7QNO_xMT4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ta7QNO_xMT4"
+    },
+    "warren-buffett-rare-but-excellent-interview-with-european-mba-students-orL5S1oP14Y": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "orL5S1oP14Y"
+    },
+    "warren-buffett-rare-interview-highlights-8WwQXzAcK9E": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8WwQXzAcK9E"
+    },
+    "warren-buffett-recommends-sp-500-index-fund-WQXb52l7GTI": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WQXb52l7GTI"
+    },
+    "warren-buffett-relives-the-2008-financial-crisis-july-11-2018-4rrCkXiAx-w": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "4rrCkXiAx-w"
+    },
+    "warren-buffett-reveals-his-investment-strategy-for-mastering-the-market-SEZwkbliJr8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "SEZwkbliJr8"
+    },
+    "warren-buffett-rose-blumkin-press-conference-interview-r0x3A1Ljh_8": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "r0x3A1Ljh_8"
+    },
+    "warren-buffett-second-adam-smiths-money-world-interview-j6niTA1AMws": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "j6niTA1AMws"
+    },
+    "warren-buffett-shares-his-opinion-on-china-costco-elon-musk-college-and-more-uddpWu5-1Uk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "uddpWu5-1Uk"
+    },
+    "warren-buffett-speaking-at-the-university-of-nebraska-in-2003-BgVPA_yzgZw": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "BgVPA_yzgZw"
+    },
+    "warren-buffett-speaks-in-detroit-9182014-lqGhGsqmXU0": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "lqGhGsqmXU0"
+    },
+    "warren-buffett-speaks-on-charlie-rose-part-1-4-9rsuNOwwkoo": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "9rsuNOwwkoo"
+    },
+    "warren-buffett-speaks-on-charlie-rose-part-2-4-tfoqx9Y1kDg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "tfoqx9Y1kDg"
+    },
+    "warren-buffett-speaks-on-charlie-rose-part-4-of-4-warren-buffett-mTE4yC0E29w": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "mTE4yC0E29w"
+    },
+    "warren-buffett-speaks-to-university-of-georgia-students-2001-rRO-noogsig": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "rRO-noogsig"
+    },
+    "1998_2MHIcabnjrA_warren_buffett_speaks_with_florida_university": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2MHIcabnjrA"
+    },
+    "warren-buffett-speech-at-university-of-nebraska-2003-warren-buffett-lecture-warren-buffett-vxyDvtXK6pg": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "vxyDvtXK6pg"
+    },
+    "warren-buffett-stock-market-is-there-to-serve-you-not-instruct-you-brk-2003cwb-ep-276-OHbZZBTLpiM": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "OHbZZBTLpiM"
+    },
+    "warren-buffett-subpoenaed-testifies-SucDg1iffFc": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "SucDg1iffFc"
+    },
+    "warren-buffett-talks-about-his-outlook-on-markets-tax-reform-pilot-flying-j-and-more-full-cnbc-BXrYDGPUSF4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "BXrYDGPUSF4"
+    },
+    "warren-buffett-talks-about-the-importance-of-accounting-oxBpi906VEE": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "oxBpi906VEE"
+    },
+    "warren-buffett-talks-business-unc-business-school-1995-7hGmSkn4wds": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7hGmSkn4wds"
+    },
+    "warren-buffett-testimony-2008-financial-crisis-june-2-2010-xr2xPBwRwJ8": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "xr2xPBwRwJ8"
+    },
+    "warren-buffett-testimony-salomon-brothers-securities-trading-investigation-1991-MtaeGt3KwuA": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MtaeGt3KwuA"
+    },
+    "warren-buffett-the-billionaire-next-door-goes-global-rrrv69YZGow": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "rrrv69YZGow"
+    },
+    "warren-buffett-the-only-5-stocks-id-trust-with-my-familys-future-3F4N0QT5Tfk": {
+      "category": "review_pending",
+      "category_zh": "身份或正文不足，待核",
+      "decision": "pending",
+      "decision_reason": "第一人称荐股独白缺少可核验的场景／身份线索；不凭文风判假，保留待核。",
+      "classification_confidence": "medium",
+      "video_id": "3F4N0QT5Tfk"
+    },
+    "warren-buffett-theres-nothing-like-working-for-yourself-GuTG6eo-LXA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "GuTG6eo-LXA"
+    },
+    "warren-buffett-trims-stake-in-apple-doubles-down-on-banks-_nKkQA1gdqs": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "_nKkQA1gdqs"
+    },
+    "warren-buffett-why-im-selling-apple-shares-8RXn7SnovVA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8RXn7SnovVA"
+    },
+    "warren-buffetts-5-new-stocks-interview-recap-Ui_FFxFvaac": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "Ui_FFxFvaac"
+    },
+    "warren-buffetts-annual-berkshire-hathaway-letter-what-to-expect-XHDPNTsLapc": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "XHDPNTsLapc"
+    },
+    "warren-buffetts-financial-advice-to-students-S7tosXiDA4A": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "S7tosXiDA4A"
+    },
+    "warren-buffetts-financial-rules-to-live-by-gUAtVyWS_4Y": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "gUAtVyWS_4Y"
+    },
+    "warren-buffetts-first-interview-on-investing-1985-timeless-wisdom-2Ji8zcrmjwo": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "开头有背景介绍，主体为历史采访片段；保留为带导语的剪辑，不标纯专访。",
+      "classification_confidence": "medium",
+      "video_id": "2Ji8zcrmjwo"
+    },
+    "warren-buffetts-first-television-interview-discussing-timeless-investment-principles-T6HHwOoq9M4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "T6HHwOoq9M4"
+    },
+    "warren-buffetts-interview-JW7SAkfQsqY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "JW7SAkfQsqY"
+    },
+    "warren-buffetts-investment-philosophy-and-wealth-of-experience-2003-iwxf89p-BYE": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "iwxf89p-BYE"
+    },
+    "warren-buffetts-investment-strategy-how-to-live-and-invest-like-a-legend-full-interview-ieXLNVwshRU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ieXLNVwshRU"
+    },
+    "warren-buffetts-life-advice-will-change-you-one-of-the-greatest-speeches-ever-berkshire-2023-cRSAOnEENn8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "cRSAOnEENn8"
+    },
+    "warren-buffetts-money-skills-they-never-taught-you-in-school-5ycaCMgZd8c": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "5ycaCMgZd8c"
+    },
+    "warren-buffetts-most-iconic-interview-ever-vHmSo_EVRjY": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "开头即对 Buffett 原话作反应，后续为交易播客及广告，按评论节目排除。",
+      "classification_confidence": "high",
+      "video_id": "vHmSo_EVRjY"
+    },
+    "warren-buffetts-most-iconic-interviews-ever-interviewed-by-charlie-rose-1wkANZGCrOI": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1wkANZGCrOI"
+    },
+    "warren-buffetts-reluctance-to-issue-class-b-shares-1995-W9gz6ce4aDs": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "W9gz6ce4aDs"
+    },
+    "warren-buffetts-successor-bloomberg-_UQ5Nl6wco8": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "_UQ5Nl6wco8"
+    },
+    "warren-buffetts-trillion-dollar-weapon-lL3N4DNLY54": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "lL3N4DNLY54"
+    },
+    "warren-e-buffett-25th-anniversary-of-the-economic-club-of-washington-dc-KuYBeBCx19g": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "KuYBeBCx19g"
+    },
+    "warrenbuffett-explains-his-thinking-complete-speech-berkshire-hathaway-agm-_iP2-jDlRtA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "_iP2-jDlRtA"
+    },
+    "watch-warren-buffett-preside-over-the-full-2025-berkshire-hathaway-annual-shareholder-meeting-j1vGFpd49wM": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "j1vGFpd49wM"
+    },
+    "watch-warren-buffetts-gatehouse-interview-32919-Wm8WEDX_PRQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Wm8WEDX_PRQ"
+    },
+    "what-was-warren-buffetts-first-investment-interview-on-economic-recovery-finance-stocks-2012-Zfa-caKXVrQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Zfa-caKXVrQ"
+    },
+    "what-was-warren-buffetts-first-investment-interview-on-economic-recovery-finance-stocks-2012-y48amk4JrYU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "y48amk4JrYU"
+    },
+    "what-will-warren-buffett-do-with-50b-in-cash-vJLvCVEssB4": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "vJLvCVEssB4"
+    },
+    "whitney-tilson-on-berkshire-buying-back-its-own-stock-yMiAEzcCl20": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "yMiAEzcCl20"
+    },
+    "why-buffett-was-subpoenaed-q5WRO3M2xO4": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "受访者以调查委员会视角说明为何传召 Buffett，Buffett 是讨论对象而非本段回答者。",
+      "classification_confidence": "high",
+      "video_id": "q5WRO3M2xO4"
+    },
+    "why-does-warren-buffett-hates-investing-in-real-estate-M466XvCS8Pk": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "M466XvCS8Pk"
+    },
+    "why-value-investing-is-outdated-warren-buffett-berkshire-hathaway-annual-meeting-lcqW9pKeZVs": {
+      "category": "third_party_commentary",
+      "category_zh": "第三方评论／解读／报道",
+      "decision": "exclude",
+      "decision_reason": "正文中的节目介绍、叙述视角或评论框架显示为第三方内容，不作为巴菲特本人言论资料。",
+      "classification_confidence": "high",
+      "video_id": "lcqW9pKeZVs"
+    },
+    "why-warren-buffett-said-no-to-lehman-and-aig-in-2008-1QeUcfqkUzc": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1QeUcfqkUzc"
+    },
+    "young-warren-buffett-1962-amazing-interview-p0P9riPxwi8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "p0P9riPxwi8"
+    },
+    "1994-berkshire-hathaway-annual-meeting-warren-buffett-charlie-munger-bill-ackman-full-qa-fjXZbW8ALRA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fjXZbW8ALRA"
+    },
+    "1995-berkshire-hathaway-annual-meeting-warren-buffett-and-charlie-munger-full-session-taNeuYpr9HY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "taNeuYpr9HY"
+    },
+    "1995-berkshire-hathaway-meeting-highlights--PdDFIQmkcE": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-PdDFIQmkcE"
+    },
+    "2001-berkshire-hathaway-meeting-highlights-0EpI3weOX60": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0EpI3weOX60"
+    },
+    "a-shrewd-question-at-the-1996-berkshire-hathaway-annual-meeting-7LkIx1OZ9v8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7LkIx1OZ9v8"
+    },
+    "auschwitz-story-what-matters-in-life-warren-buffett-dGHF-ui7eUs": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "dGHF-ui7eUs"
+    },
+    "becky-hits-on-and-flirts-with-warren-buffett-during-interview-zzpkVjj51xw": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "zzpkVjj51xw"
+    },
+    "berkshire-hathaway-ceo-warren-buffett-full-interview-Cmrx-whT3NQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Cmrx-whT3NQ"
+    },
+    "best-warren-buffett-speech-M-vQGxTFfPU": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "M-vQGxTFfPU"
+    },
+    "buffett-laughs-at-the-persecuted-1-Yh_XeKIrMyw": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Yh_XeKIrMyw"
+    },
+    "buffett-on-retirement-Z40yQoy9Nno": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Z40yQoy9Nno"
+    },
+    "buffett-on-salomon-brothers-O0R_9L_D2Yk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "O0R_9L_D2Yk"
+    },
+    "classic-warren-buffett-charlie-rose-interview-BQEGAriEnOQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "BQEGAriEnOQ"
+    },
+    "conversation-with-warren-buffett-2-e3Wm68DaA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2-e3Wm68DaA"
+    },
+    "heres-how-buffett-and-munger-outsmarted-wall-street-on-wells-fargo-1995-q36-pm-oZxOB48aHD8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "oZxOB48aHD8"
+    },
+    "how-warren-buffett-manages-its-subsidiaries--PCwbr-tHq8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-PCwbr-tHq8"
+    },
+    "howard-buffet-60-minutes-archive-ju3s0SDw3NY": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "虽然标题为 Howard，正文同时有 Warren 对儿子成长和接班的回答，保留但标为混合采访。",
+      "classification_confidence": "medium",
+      "video_id": "ju3s0SDw3NY"
+    },
+    "in-1991-warren-buffett-was-growing-his-fortune-while-having-fun-Q-umUTkIX3Q": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Q-umUTkIX3Q"
+    },
+    "never-ask-a-barber-whether-u-need-a-haircut-UKREnyprrG8": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "UKREnyprrG8"
+    },
+    "person-to-person-warren-buffett-behind-the-scenes-2pUXrur5PoQ": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "2pUXrur5PoQ"
+    },
+    "person-to-person-warren-buffett-behind-the-scenes-5Cw23ODC6bk": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "5Cw23ODC6bk"
+    },
+    "rationale-of-investing-business-at-all-time-highs-yHAotMM_djE": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "yHAotMM_djE"
+    },
+    "take-care-of-your-body-and-mind-warren-buffett-fLDL-OiadKY": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fLDL-OiadKY"
+    },
+    "the-inspirational-story-of-enterprise-rent-a-car-warren-buffet-kXtIhgGLiRY": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kXtIhgGLiRY"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2009-berkshire-hathaway-annual-meeting-Epa9Gqtuesc": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Epa9Gqtuesc"
+    },
+    "timesaver-edit-full-qa-warren-buffett-charlie-munger-2018-berkshire-hathaway-annual-meeting-OvMA95jn3YI": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "OvMA95jn3YI"
+    },
+    "top-news-story-august-18-1991-Ebo8w6PIkE8": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "综合新闻含 Salomon 报道及疑似 Buffett 短发言，也含大量飓风新闻；归入混合节目，不认定整篇是巴菲特言论。",
+      "classification_confidence": "medium",
+      "video_id": "Ebo8w6PIkE8"
+    },
+    "top-quotes-on-warren-buffett-stock-investment-strategy-warren-buffett-stock-investment-advice-C8sAtl8Mr40": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "C8sAtl8Mr40"
+    },
+    "tour-warren-buffetts-office-uoaGaz-KDaw": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "uoaGaz-KDaw"
+    },
+    "warren-buffett-1960s-interview-restored-colorization-WV6grK1czRk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WV6grK1czRk"
+    },
+    "warren-buffett-1962-talks-about-a-brief-stock-market-drop-REhg_bv7srM": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "REhg_bv7srM"
+    },
+    "warren-buffett-and-jamie-dimon-with-full-interview-LVVMW1J08e4": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "LVVMW1J08e4"
+    },
+    "warren-buffett-asks-what-train-are-you-on-fCP95R0iifs": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fCP95R0iifs"
+    },
+    "warren-buffett-best-advice-to-students-eBw_B0YSjdE": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "eBw_B0YSjdE"
+    },
+    "warren-buffett-bites-into-apple-aEVfB13OJmY": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "aEVfB13OJmY"
+    },
+    "warren-buffett-bloomberg-game-changer-7dMrHs1PCC0": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7dMrHs1PCC0"
+    },
+    "warren-buffett-charlie-munger-on-jim-simons-quant-investing-NFkTr8NPBdA": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "NFkTr8NPBdA"
+    },
+    "warren-buffett-charlie-munger-on-stock-positioning-and-size-2003-lpwWzrPfa9M": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "lpwWzrPfa9M"
+    },
+    "warren-buffett-discusses-what-business-schools-fail-to-teach-I0-Q27CG4g4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "I0-Q27CG4g4"
+    },
+    "warren-buffett-everything-tim-cook-does-make-sense-at-apple-AN-UIQOyz9U": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "AN-UIQOyz9U"
+    },
+    "warren-buffett-hold-money-during-war-archives-cnbc-dP_PvBYdRJg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "dP_PvBYdRJg"
+    },
+    "warren-buffett-how-many-stocks-should-you-own-in-your-portfolio-H3Q8a9imiFs": {
+      "category": "buffett_compilation",
+      "category_zh": "原话剪辑／合辑，可能含简短导语",
+      "decision": "retain_candidate",
+      "decision_reason": "作者简短引入分散投资话题后播放长篇大会问答；保留为带导语的原话片段，不标纯专访。",
+      "classification_confidence": "medium",
+      "video_id": "H3Q8a9imiFs"
+    },
+    "warren-buffett-how-to-think-about-multiples-1995-q47-pm-bOFhyS8gbMM": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "bOFhyS8gbMM"
+    },
+    "warren-buffett-i-could-never-vote-against-coca-cola-eKjqcPoMMfA": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "eKjqcPoMMfA"
+    },
+    "warren-buffett-im-a-huge-fan-of-breaking-bad-PdZiYrXRqek": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "PdZiYrXRqek"
+    },
+    "warren-buffett-interview-aug102018-economy-trade-2018-signs-of-economic-collapse-esV-NK1AFrU": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "esV-NK1AFrU"
+    },
+    "warren-buffett-interview-during-the-gfc-2008-iiE5ji1dwQs": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "iiE5ji1dwQs"
+    },
+    "warren-buffett-ipo-is-similar-to-winning-in-lottery-RDb5HV4MbJI": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "RDb5HV4MbJI"
+    },
+    "warren-buffett-lecture-brZfKHA5otA": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "brZfKHA5otA"
+    },
+    "warren-buffett-lecture-series-introduction-part-1-of-15-XZb8tSj9uQ4": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "XZb8tSj9uQ4"
+    },
+    "warren-buffett-lecture-series-the-basics-part-2-of-15-jjh1DcFznRw": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "jjh1DcFznRw"
+    },
+    "warren-buffett-lecture-university-of-florida-1998-7Z6x-Ov1smU": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7Z6x-Ov1smU"
+    },
+    "warren-buffett-lecture-university-of-florida-1998-nQPdclp8lDc": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "nQPdclp8lDc"
+    },
+    "warren-buffett-on-grahams-3-investing-principles-1995-MRDQKFhwAd4": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "MRDQKFhwAd4"
+    },
+    "warren-buffett-on-investing-small-sums-Z2R7sy-77q0": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Z2R7sy-77q0"
+    },
+    "warren-buffett-on-lessons-from-2008-financial-crisis--Y1bkqmGfP8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-Y1bkqmGfP8"
+    },
+    "warren-buffett-on-reputation-lose-a-shred-and-i-will-be-ruthless-1991-7u7-UNSkr4o": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "7u7-UNSkr4o"
+    },
+    "warren-buffett-on-tax-reform-were-going-to-invest-it-0S5HJgzXLKk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "0S5HJgzXLKk"
+    },
+    "warren-buffett-on-the-stock-market-drop-1962-interview-Dgc4pS7bnMI": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Dgc4pS7bnMI"
+    },
+    "warren-buffett-on-us-productivity-selectusa-interview-ysnXaanRAkI": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "ysnXaanRAkI"
+    },
+    "warren-buffett-rare-interview-from-1962-warrenbuffett-datashots-buffettanswers-buffett-finance-YrW48v4Kicg": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "YrW48v4Kicg"
+    },
+    "warren-buffett-reveals-the-three-investing-lessons-that-changed-his-life--Et4Lx17c0M": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-Et4Lx17c0M"
+    },
+    "warren-buffett-says-glide-foundation-transforms-lives-KJTe-AMokcs": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "KJTe-AMokcs"
+    },
+    "warren-buffett-says-mistakes-are-part-of-investing-1dhKx4D55Sw": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1dhKx4D55Sw"
+    },
+    "warren-buffett-says-stocks-still-attractive-versus-bonds-qVGeqrwrS88": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "qVGeqrwrS88"
+    },
+    "warren-buffett-uncovering-the-inspiring-stories-of-selfmade-millionaires-vs3PhN8-vYQ": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "vs3PhN8-vYQ"
+    },
+    "warren-buffett-volatility-in-the-market-Egjy9GcGRNY": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Egjy9GcGRNY"
+    },
+    "warren-buffett-warning-buying-house-is-dangerous-zUn7YMoz4Tw": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "zUn7YMoz4Tw"
+    },
+    "warren-buffett-why-cash-is-not-king-charlie-rose-interview-2009-W4_f13sfVJ8": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "W4_f13sfVJ8"
+    },
+    "warren-buffett-why-most-people-should-invest-in-sp-500-index-brk-2008-cwb-ep409-kqfMvHufOMk": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "kqfMvHufOMk"
+    },
+    "warren-buffett-why-productivity-advice-is-bullsht-KylZCuzPgjc": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "KylZCuzPgjc"
+    },
+    "warren-buffett-worlds-top-investor-interview-2017-a0ju7bBb-Uo": {
+      "category": "buffett_mixed_report",
+      "category_zh": "报道或节目混合，含巴菲特受访内容",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "a0ju7bBb-Uo"
+    },
+    "warren-buffetts-career-advice-8aNKhVPKHBc": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "8aNKhVPKHBc"
+    },
+    "warren-buffetts-definition-of-happiness-E0vNzpxMf9k": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "E0vNzpxMf9k"
+    },
+    "warren-buffetts-explains-his-entire-investment-philosophy-in-this-old-interview-Zqlav33vj4M": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "Zqlav33vj4M"
+    },
+    "warren-buffetts-first-interview-post-agm-to-et-now-fc-12TwoVgQ": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "fc-12TwoVgQ"
+    },
+    "warren-buffetts-first-television-interview-1985-improved-video-captioned-KAZ9FuQsGXk": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "KAZ9FuQsGXk"
+    },
+    "warren-buffetts-interview-with-cnbc-part-3-5UZGziZE86o": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "5UZGziZE86o"
+    },
+    "warren-buffetts-most-iconic-lecture-ever-must-watch-JXLJkUWidFU": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "JXLJkUWidFU"
+    },
+    "warren-buffetts-most-impactful-speech-reveals-hidden-secrets--8RLKuKcR8o": {
+      "category": "buffett_lecture",
+      "category_zh": "巴菲特主讲／演讲问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-8RLKuKcR8o"
+    },
+    "warren-buffetts-take-on-the-state-of-inflation-and-how-to-protect-your-portfolio-2023-04-12-6mol53CXjRk": {
+      "category": "buffett_multi_guest",
+      "category_zh": "巴菲特参与的多人对谈／听证",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "6mol53CXjRk"
+    },
+    "was-ibm-a-mistake-that-warren-buffett-make-1k_Ym5wlg4s": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "1k_Ym5wlg4s"
+    },
+    "why-buffett-sees-berkshire-differently-a-valuation-debate-VFwfMQnMx2E": {
+      "category": "buffett_meeting",
+      "category_zh": "巴菲特参与的大会／问答",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "VFwfMQnMx2E"
+    },
+    "why-warren-buffett-never-bought-a-pro-team-31417--5M4FRlUdFU": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "-5M4FRlUdFU"
+    },
+    "young-warren-buffett-rare-interview-shortsfeed-trending-youtubeshorts-rarestockmarket-tariffs-WihIdawDEFI": {
+      "category": "buffett_interview_or_excerpt",
+      "category_zh": "巴菲特受访／问答片段（不保证全程单一嘉宾）",
+      "decision": "retain_candidate",
+      "decision_reason": "标题与正文问答／讲话内容支持巴菲特参与；本轮不认证每句归属，也不保证整段没有其他嘉宾。",
+      "classification_confidence": "medium",
+      "video_id": "WihIdawDEFI"
+    }
+  },
+  "audit_sha256": "02818e8a9d8f8a11113cb158ffb8ece76a7dafa745d36a25e72078903d95d05b"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "release": "2026-09-20",
+  "stored_documents": 459,
+  "stored_chunks": 16649,
+  "active_documents": 412,
+  "active_chunks": 16065,
+  "excluded_documents": 47,
+  "vector_dim": 1024,
+  "vector_dtype": "little-endian float32",
+  "embedding_model": "tencent/WeMM-Embedding-9B",
+  "embedding_contract": "wemm-text-rightpad-fp32norm-v2",
+  "source_fingerprint": "d72a7832d07b58284fda90623051bbfbf27992ddabdd9ebfd7f841fc9183b702",
+  "review_version": "2026-09-20-content-v2",
+  "raw_review_counts": {
+    "retain_candidate": 317,
+    "exclude": 90,
+    "pending": 9
+  },
+  "audio_video_verified": false,
+  "files": {
+    "content_audit.json": {
+      "sha256": "02818e8a9d8f8a11113cb158ffb8ece76a7dafa745d36a25e72078903d95d05b",
+      "bytes": 944827
+    },
+    "retrieval_scope.json": {
+      "sha256": "50c8336d12e89047fad38f28e17f67a7f9a6edc8f7b13a20b40eeff42568b1b6",
+      "bytes": 173725
+    },
+    "archive.sqlite.gz.part00": {
+      "sha256": "e438ec8afc22b223bcd9cb0cc84fee1023e254500c293ed0f598494e9ed6fcea",
+      "bytes": 20971520
+    },
+    "archive.sqlite.gz.part01": {
+      "sha256": "48371493e853671fa2f495f640abb4358bfd95a28fe5f77260b816dbd27840a6",
+      "bytes": 20971520
+    },
+    "archive.sqlite.gz.part02": {
+      "sha256": "eaa860812dc0bb82f485e09c49cd9df0567ffe31525ef3c82fbbf82b427b7998",
+      "bytes": 20971520
+    },
+    "archive.sqlite.gz.part03": {
+      "sha256": "9625dc0080b93a56d966e53065f9bba7fe53b7fa928773492e764abe1eb39013",
+      "bytes": 17996877
+    }
+  },
+  "database_sha256": "bfcbdeb9d467051c8713dbfe9f1a7cb05aa1915622556a2cbeeb6c305cae9288",
+  "database_bytes": 276131840,
+  "archive_sha256": "eee1ed1b0e99ce0f96547f98af3f66a55c049938261738ad40c3bad3cd5cd96f",
+  "archive_parts": [
+    "archive.sqlite.gz.part00",
+    "archive.sqlite.gz.part01",
+    "archive.sqlite.gz.part02",
+    "archive.sqlite.gz.part03"
+  ]
+}
