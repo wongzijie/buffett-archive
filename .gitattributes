@@ -1,0 +1,6 @@
+# Preserve exact snapshot bytes across Windows/macOS/Linux checkouts.
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+data/** -text
