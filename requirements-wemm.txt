@@ -1,0 +1,7 @@
+# Install matching CUDA builds of PyTorch and torchvision from pytorch.org for your GPU first.
+# Tested upstream environment: torch 2.13.0+cu132, NVIDIA RTX 5090 32 GB.
+transformers==5.15.0
+numpy==2.4.4
+accelerate==1.14.0
+huggingface-hub>=0.34,<2
+pillow>=10,<13
